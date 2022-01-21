@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning C#, and JAVASCRIPT!
 - 📫 How to reach me. no. I work either alone or with my school friends
 
-mainly joined this site to keep my code on the cloud and stuff.
+mainly joined this site to keep my code on the cloud and browser visualstudio.
 am good at coding!
